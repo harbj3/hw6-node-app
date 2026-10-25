@@ -1,0 +1,9 @@
+{
+  "name": "hw6-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node app for HW6 Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
